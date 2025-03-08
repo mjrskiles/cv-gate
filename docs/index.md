@@ -4,6 +4,10 @@
 
 Shapeware 1U is a compact analog utility module for Eurorack synthesizers. It provides a simple wave shaper and gate processor with both manual and CV control.
 
+## Design
+
+Please see the [KiCAD schematic files](https://github.com/mjrskiles/cv-gate) on GitHub.
+
 ## Features
 
 - Bipolar mono CV/audio input processing
